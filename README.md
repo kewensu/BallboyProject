@@ -1,10 +1,11 @@
 # Overview
 
 A basic ballboy game written in JavaFX. Try to reach the finish without colliding with the enemies!
-
+![image](https://github.com/kewensu/BallboyProject/blob/main/imgs/DemoImg1.gif) 
+![image](https://github.com/kewensu/BallboyProject/blob/main/imgs/DemoImg2.gif) 
 # System architecture
+![image](https://github.com/kewensu/BallboyProject/blob/main/imgs/Architecture.png)   
 
-[![zYmu5V.jpg](https://s1.ax1x.com/2022/11/25/zYmu5V.jpg)](https://imgse.com/i/zYmu5V)
 
 # Getting Started 
 
